@@ -20,8 +20,8 @@ What is the purpose of `int` before `int main()`?
 It specifies the **return type** of the `main` function.
 In C, `main` returns an `int` to the operating system:
 
-* `0` → program executed successfully
-* non-zero → program ended with an error code
+* `0`: program executed successfully
+* non-zero: program ended with an error code
 
 ---
 
@@ -33,10 +33,8 @@ Which GCC compiler flag(s) enable warnings?
 
 The most common are:
 
-* `-Wall` → enables most common warnings
-* `-Wextra` → enables additional useful warnings
-
-(You can also use `-Werror` to treat warnings as errors.)
+* `-Wall`:enables most common warnings
+* `-Wextra`: enables additional useful warnings
 
 ---
 
