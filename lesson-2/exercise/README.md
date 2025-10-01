@@ -1,4 +1,4 @@
-# Answers to the Questions - Lesson 2
+#  Questions - Lesson 2
 
 ## Question 1
 
