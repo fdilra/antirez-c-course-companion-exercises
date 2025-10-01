@@ -6,6 +6,6 @@
  * of the printf() function. Without it, the compiler does not know what printf() is.
  */
 int main() {
-    printf("Hello world!");
+    printf("Hello world!\n");
     return 0;
 }

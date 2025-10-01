@@ -1,4 +1,4 @@
-# Questions - Lesson 1
+# Answers to the Questionss - Lesson 1
 
 ## Question 1
 What flag do you need to use to tell the GCC compiler to compile a .c file into assembly?
