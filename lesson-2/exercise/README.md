@@ -8,13 +8,13 @@ What does the standard library header `stdio.h` contain?
 
 ## Question 2
 
-What is the purpose of `int` before `int main()`?
+What is the purpose of `int` in `int main()`?
 
 ---
 
 ## Question 3
 
-Which GCC compiler flag(s) enable warnings?
+Which GCC compiler flag(s) enables warnings?
 
 ---
 

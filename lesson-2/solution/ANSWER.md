@@ -13,7 +13,7 @@ For example, it declares `printf()`, `scanf()`, `puts()`, and `FILE`.
 
 ## Question 2
 
-What is the purpose of `int` before `int main()`?
+What is the purpose of `int` in `int main()`?
 
 ### Answer
 
