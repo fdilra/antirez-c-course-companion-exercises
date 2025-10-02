@@ -26,10 +26,10 @@ On most systems float is 32-bit (single precision) and double is 64-bit (double 
 
 ## Question 4
 What is the size of a variable of type `char`? What does the following code print? (Hint: you might have to check the ASCII table)
-`
+```
 char c = 65;
 printf("%c\n", c);
-`
+```
 
 ### Answer
 The size of the type `char` is generally 1 byte.
